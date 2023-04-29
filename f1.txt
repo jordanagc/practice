@@ -2,4 +2,4 @@ Aleatorio
 
 oie
 
-olá
+new line
